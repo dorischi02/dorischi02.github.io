@@ -181,6 +181,6 @@ awards:
 
 ## About Me
 
-Doris is a first-year MPH student in Social and Behavioral Sciences at YSPH. She graduated magna cum laude from Smith College in 2024 with a B.A. in Psychology and a minor in Applied Statistics. Her research uses mixed methods and incorporates psychophysiology to examine identity-based and stigma-related stressors among marginalized populations and how these stressors manifest in and interact with social environments to drive mental health inequities.
+Doris is a first-year MPH student in Social and Behavioral Sciences at YSPH. She graduated magna cum laude from Smith College in 2024 with a B.A. in Psychology and a minor in Applied Statistics. 
 
 
