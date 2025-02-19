@@ -42,12 +42,13 @@ interests:
   - Health
 
 education:
-  - area: MPH in Social and Behavioral Sciences
+  - area: MPH, Social and Behavioral Sciences
     institution: Yale School of Public Health
     date_start: '2024-09-01'
     date_end: '2026-05-20'
     summary: |
       GPA: All honors
+
       Master's thesis in progress. Supervised by [Prof xx](https://example.com). 
            
       Courses included:
@@ -60,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: BA in Psychology, minor in Applied Statistics
+  - area: BA, Psychology 
     institution: Smith College
     date_start: '2020-09-01'
     date_end: '2024-05-20'
