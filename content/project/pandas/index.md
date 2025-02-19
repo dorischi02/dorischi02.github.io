@@ -1,13 +1,11 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Psychosocial Predictors of Wellbeing
+date: 2023-12-01
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Howe do internalized homonegativity and parental support of sexual orientation predict life satifaction among sexual minority women in China and the US?
 
 <!--more-->
