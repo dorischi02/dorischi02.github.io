@@ -44,8 +44,8 @@ interests:
 education:
   - area: MPH in Social and Behavioral Sciences
     institution: Yale School of Public Health
-    year_start: 2024
-    year_end: 2026
+    date_start: '2024-09-01'
+    date_end: '2026-05-20'
     summary: |
       GPA: All honors
       Master's thesis in progress. Supervised by [Prof xx](https://example.com). 
@@ -62,8 +62,8 @@ education:
       url: 'https://example.com'
   - area: BA in Psychology, minor in Applied Statistics
     institution: Smith College
-    year_start: 2020
-    year_end: 2024
+    date_start: '2020-09-01'
+    date_end: '2024-05-20'
     summary: |
       GPA: 3.97/4.0, magna cum laude
 
@@ -77,39 +77,29 @@ education:
 work:
   - position: Graduate Researcher | Southern TENNacity Project
     company_name: Department of Social and Behavioral Sciences, Yale School of Public Health
-    company_url: ''
-    company_logo: ''
-    date_start: 2024
+    date_start: '2024-10-01'
     date_end: ''
  
       
   - position: Study Coordinator | Emotion, Health, and Psychophysiology Lab
     company_name: Department of Psychology, Yale University
-    company_url: ''
-    company_logo: ''
-    date_start: 2024
+    date_start: '2024-06-01'
     date_end: ''
 
   - position: Research Assistant | Gender Research Laboratory
     company_name: Department of Psychology, Smith College
-    company_url: ''
-    company_logo: ''
-    date_start: 2023
-    date_end: 2025
+    date_start: '2023-01-31'
+    date_end: '2025-05-01'
 
   - position: Research Assistant | Clinical and Translational Science Institute 
     company_name: Tufts University School of Medicine
-    company_url: ''
-    company_logo: ''
-    date_start: 2023
-    date_end: 2024
+    date_start: '2023-06-01'
+    date_end: '2024-09-01'
       
   - position: Project Manager | Society, Psychology, and Health Laboratory 
     company_name: Department of Psychology, Smith College
-    company_url: ''
-    company_logo: ''
-    date_start: 2022
-    date_end: 2024
+    date_start: '2022-09-01'
+    date_end: '2024-12-31'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
