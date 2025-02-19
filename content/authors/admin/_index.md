@@ -6,10 +6,6 @@ title: J. Doris Chi
 first_name: Junye (Doris)
 last_name: Chi
 
-# Status emoji
-status: 
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
