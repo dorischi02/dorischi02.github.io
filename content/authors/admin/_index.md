@@ -154,27 +154,27 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Diversity Student Award
-    date: '2025'
+    date: '2025-01-01'
     awarder: Society for Personality and Social Psychology
 
   - title: Jean Fine Spahr Alumnae Fellowship ($30,000)
-    date: '2024'
+    date: '2024-05-01'
     awarder: Smith College
     summary: |
       Fellowship awarded to two graduates of Smith College for the first year of graduate study
 
   - title: 'William Sentman Taylor Award ($1,000)'
-    date: '2024'
+    date: '2024-05-01'
     awarder: Smith College
     summary: |
       For significant work in human values, a quest for truth, beauty, and goodness in the arts and sciences. The only annual award given to one undergraduate by the Psychology Department.
 
   - title: Horstmann Scholarship ($40,000)
-    date: '2024'
+    date: '2024-09-01'
     awarder: Yale School of Public Health 
 
   - title: Point BIPOC Scholarship ($3,000)
-    date: '2024-2025'
+    date: '2024-10-01'
     awarder: Point Foundation
 ---
 
